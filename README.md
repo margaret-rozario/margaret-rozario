@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Margaret Rozario</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer from Canada</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif">
 
