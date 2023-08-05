@@ -1,6 +1,6 @@
 ![logo](https://github.com/margaret-rozario/margaret-rozario/blob/main/S.%20Margaret%20Rozario%20(2).png)
 <h1 align="center">Hi 👋, I'm Margaret Rozario</h1>
-<h3 align="center">Software Engineer from Canada</h3>
+<h3 align="center">Passionate Software Engineer from Canada</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif">
 
